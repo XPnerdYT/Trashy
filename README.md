@@ -2,7 +2,7 @@
 Trashy is an automatic sorting trash bin
 ## Prototype Demonstration
 Link to the 3D model demonstration:
-[https://xpnerd.github.io/trashydemo/](https://xpnerd.vercel.app/trashydemo.html)
+https://xpnerd.vercel.app/trashydemo.html
 ## Trashy AI Vision
 ### Download
 Go to the project releases and download the latest version.
